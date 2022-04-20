@@ -31,7 +31,7 @@ html, body {
 body {
     font-family: 'Roboto', sans-serif;
     font-size: 16px;
-    background-color: #E9F3FE;
+    background-color: #000000;
 }
 
 header {
@@ -166,4 +166,8 @@ main {width: 100%;}
 
 .map {
     margin: 20px 0;
+}
+
+p, h1, h2, h3, ul, li{
+    color: #FFF;
 }
